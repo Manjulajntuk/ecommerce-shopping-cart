@@ -89,6 +89,14 @@
       "availableSizes": ["L", "XL"],
       "price": 134.9,
       "isFreeShipping": true
+    }, {
+      "id": 10,
+      "sku": 11600983276356165,
+      "title": "Crazy Monkeys Grey",
+      "description": "",
+      "availableSizes": ["L", "XL"],
+      "price": 13.9,
+      "isFreeShipping": true
     }
   ]
 }
